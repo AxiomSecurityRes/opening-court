@@ -3,6 +3,8 @@
 학교 친구들끼리 체스 오프닝 128개를 분야별로 투표해 티어를 매기고, 토론하는 웹사이트입니다.
 AI 점수는 Lichess 대국 통계 + Stockfish 엔진으로 계산하고, 투표는 그 점수를 출발점 삼아 판결을 바꿉니다.
 
+**사이트 주소: https://axiomsecurityres.github.io/opening-court/** (`main` 브랜치에 push 하면 GitHub Actions 가 `web/` 폴더를 자동 배포)
+
 ```
 opening-court/
 ├─ web/                 ← 사이트 (이 폴더 하나만 호스팅하면 됨)
