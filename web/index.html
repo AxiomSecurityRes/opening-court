@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>오프닝 법정</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="체스 오프닝을 분야별로 투표해 티어를 매기는 우리끼리 법정">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Noto+Sans+KR:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="pieces.css">
+</head>
+<body>
+<div id="app" aria-live="polite"><div class="boot">법정 여는 중…</div></div>
+<div id="toast" role="status" hidden></div>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
+<script src="config.js"></script>
+<script src="data/seed.js"></script>
+<script src="data/ai_scores.js" onerror="void 0"></script>
+<script src="app.js"></script>
+</body>
+</html>

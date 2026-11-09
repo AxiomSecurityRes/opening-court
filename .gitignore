@@ -1,0 +1,5 @@
+batch/build/
+batch/cache/
+batch/out/
+*.exe
+*.o

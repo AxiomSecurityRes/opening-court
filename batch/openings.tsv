@@ -1,0 +1,129 @@
+# id	slug	side	uci
+1	qga	b	d2d4 d7d5 c2c4 d5c4
+2	qgd	b	d2d4 d7d5 c2c4 e7e6
+3	italian	w	e2e4 e7e5 g1f3 b8c6 f1c4
+4	ruy-lopez	w	e2e4 e7e5 g1f3 b8c6 f1b5
+5	london	w	d2d4 d7d5 c1f4
+6	scotch-gambit	w	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4
+7	grunfeld	b	d2d4 g8f6 c2c4 g7g6 b1c3 d7d5
+8	mieses	w	d2d3
+9	vant-kruijs	w	e2e3
+10	polish	w	b2b4
+11	hippopotamus	b	e2e4 g8h6 d2d4 g7g6 c2c4 f7f6
+12	elephant	b	e2e4 e7e5 g1f3 d7d5
+13	tennison	w	e2e4 d7d5 g1f3
+14	englund	b	d2d4 e7e5
+15	petrov	b	e2e4 e7e5 g1f3 g8f6
+16	urusov	w	e2e4 e7e5 f1c4 g8f6 d2d4 e5d4 g1f3
+17	three-knights	w	e2e4 e7e5 g1f3 b8c6 b1c3
+18	four-knights	w	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6
+19	halloween	w	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f3e5
+20	center-game	w	e2e4 e7e5 d2d4 e5d4 d1d4
+21	ware-defense	b	e2e4 a7a5
+22	owen	b	e2e4 b7b6
+23	saragossa	w	c2c3
+24	caro-kann	b	e2e4 c7c6
+25	grob	w	g2g4
+26	scandinavian	b	e2e4 d7d5
+27	fried-liver	w	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 f6d5 g5f7
+28	pirc	b	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6
+29	vienna	w	e2e4 e7e5 b1c3
+30	ware-opening	w	a2a4
+31	kadas	w	h2h4
+32	kings-gambit	w	e2e4 e7e5 f2f4
+33	bongcloud	w	e2e4 e7e5 e1e2
+34	wrongcloud	w	f2f3 e7e5 e1f2
+35	english	w	c2c4
+36	modern	b	e2e4 g7g6
+37	sodium	w	b1a3
+38	nimzo-larsen	w	b2b3
+39	bird	w	f2f4
+40	reti	w	g1f3 d7d5 c2c4
+41	evans	w	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4
+42	anderssen	w	a2a3
+43	barnes	w	f2f3
+44	bishops	w	e2e4 e7e5 f1c4
+45	wayward-queen	w	e2e4 e7e5 d1h5
+46	bdg	w	d2d4 d7d5 e2e4 d5e4 b1c3 g8f6 f2f3
+47	danish	w	e2e4 e7e5 d2d4 e5d4 c2c3
+48	budapest	b	d2d4 g8f6 c2c4 e7e5
+49	alekhine	b	e2e4 g8f6
+50	lion	b	e2e4 d7d6 d2d4 g8f6 b1c3 b8d7
+51	dutch	b	d2d4 f7f5
+52	indian	b	d2d4 g8f6
+53	kia	w	g1f3 d7d5 g2g3
+54	kings-fianchetto	w	g2g3
+55	slav	b	d2d4 d7d5 c2c4 c7c6
+56	jobava	w	d2d4 d7d5 b1c3 g8f6 c1f4
+57	pterodactyl	b	g1f3 c7c5 c2c4 g7g6 d2d4 f8g7 e2e4 d8a5 b1c3 d7d6
+58	albin	b	d2d4 d7d5 c2c4 e7e5
+59	stonewall	w	d2d4 d7d5 e2e3 g8f6 f1d3
+60	black-mustang	b	g1f3 b8c6
+61	goldsmith	b	e2e4 h7h5
+62	colle	w	d2d4 d7d5 g1f3 g8f6 e2e3 e7e6 f1d3
+63	lasker-pelikan	b	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e5
+64	hyper-dragon	b	e2e4 c7c5 g1f3 g7g6
+65	accel-dragon	b	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6
+66	dragon	b	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6
+67	old-sicilian	b	e2e4 c7c5 g1f3 b8c6
+68	rossolimo	w	e2e4 c7c5 g1f3 b8c6 f1b5
+69	sicilian-french	b	e2e4 c7c5 g1f3 e7e6
+70	english-attack	w	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3
+71	maroczy	w	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 c2c4
+72	jalalabad	b	e2e4 c7c5 g1f3 e7e5
+73	sozin	w	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 f1c4
+74	najdorf	b	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6
+# 75	dragadorf	수순 미입력 (사이트에서 입력 후 이 줄을 채우세요)
+76	scheveningen	b	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e6
+77	moscow	w	e2e4 c7c5 g1f3 d7d6 f1b5
+78	okelly	b	e2e4 c7c5 g1f3 a7a6
+79	delayed-alapin	w	e2e4 c7c5 g1f3 e7e6 c2c3 d7d5 e4d5 d8d5 d2d4 g8f6
+80	closed-sicilian	w	e2e4 c7c5 b1c3
+81	hyper-pterodactyl	b	e2e4 c7c5 g1f3 g7g6 d2d4 f8g7
+82	chinese-dragon	b	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 e8g8 d1d2 b8c6 f1c4 c8d7 e1c1 a8b8
+83	yugoslav	w	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 e8g8
+84	wing-gambit	w	e2e4 c7c5 b2b4
+85	modern-variations	b	e2e4 c7c5 g1f3 d7d6
+86	magnus-smith	w	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1c4 g7g6 d4c6 b7c6 e4e5
+87	taimanov	b	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6
+88	giuoco-piano	b	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5
+89	giuoco-pianissimo	w	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 d2d3
+90	polerio	b	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5
+91	rousseau	b	e2e4 e7e5 g1f3 b8c6 f1c4 f7f5
+92	salvio	w	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 f3e5
+93	muzio	w	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1
+94	icelandic-palme	b	e2e4 d7d5 e4d5 g8f6 c2c4 e7e6
+95	morphy	b	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6
+96	berlin	b	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6
+97	rio	w	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4
+# 98	columbus	수순 미입력 (사이트에서 입력 후 이 줄을 채우세요)
+99	bulgarian	b	e2e4 e7e5 g1f3 b8c6 f1b5 a7a5
+100	fishing-pole	b	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6g4
+101	frankenstein	b	e2e4 e7e5 b1c3 g8f6 f1c4 f6e4
+102	max-lange	b	e2e4 e7e5 b1c3 b8c6
+103	manhattan	b	d2d4 d7d5 c2c4 e7e6 b1c3 g8f6 c1g5 b8d7 e2e3 f8b4
+104	leningrad	b	d2d4 f7f5 g2g3 g8f6 f1g2 g7g6
+105	hopton	w	d2d4 f7f5 c1g5
+106	french-advance	w	e2e4 e7e6 d2d4 d7d5 e4e5
+107	french-knight	w	e2e4 e7e6 g1f3
+108	english-symmetrical	b	c2c4 c7c5
+109	english-reversed	b	c2c4 e7e5
+110	blackburne-shilling	b	e2e4 e7e5 g1f3 b8c6 f1c4 c6d4
+111	coca-cola	w	g2g4 g7g5 f2f4
+112	alien	w	e2e4 c7c6 d2d4 d7d5 b1c3 d5e4 c3e4 g8f6 e4g5 h7h6 g5f7
+113	meadow-hay	w	a2a4 e7e5 a1a3
+114	damiano-gambit	w	e2e4 e7e5 g1f3 f7f6 f3e5 f6e5 d1h5 g7g6 h5e5 d8e7 e5h8
+115	napoleon	w	e2e4 e7e5 d1f3
+# 116	delayed-albin	수순 미입력 (사이트에서 입력 후 이 줄을 채우세요)
+117	duchamp	w	c2c4 g8f6 g1f3 g7g6 g2g3 f8g7 f1g2 e8g8 e1g1 c7c5 b1c3 b8c6 d2d3
+118	great-snake	b	c2c4 g7g6
+119	jerome	w	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c4f7
+120	stafford	b	e2e4 e7e5 g1f3 g8f6 f3e5 b8c6
+121	soller	b	d2d4 e7e5 d4e5 f7f6
+122	leonhardt	w	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 b2b4
+# 123	xqc	수순 미입력 (사이트에서 입력 후 이 줄을 채우세요)
+124	the-cow	w	e2e3 d7d5 d2d3
+125	rosen-trap	b	d2d4 e7e5 d4e5 b8c6 g1f3 d8e7 c1f4 e7b4 f4d2 b4b2 d2c3 f8b4 d1d2 b4c3 d2c3 b2c1
+# 126	bongcloud-advanced	수순 미입력 (사이트에서 입력 후 이 줄을 채우세요)
+# 127	jiroe	수순 미입력 (사이트에서 입력 후 이 줄을 채우세요)
+# 128	gaejaem	수순 미입력 (사이트에서 입력 후 이 줄을 채우세요)
